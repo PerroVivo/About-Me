@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Franklin Latouche, a cybersecurity student pursuing a Bachelor's degree in Cyber Operations with a Cyber Engineering emphasis. I'm passionate about building secure systems and defending against evolving digital threats.
+I'm Frank, a cybersecurity student pursuing a Bachelor's degree in Cyber Operations with a Cyber Engineering emphasis. I'm passionate about building secure systems and defending against evolving digital threats.
 
 🚀 Current Focus
 Networking & Infrastructure
