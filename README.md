@@ -3,17 +3,26 @@ I'm Frank, a cybersecurity student pursuing a Bachelor's degree in Cyber Operati
 
 🚀 Current Focus
 Networking & Infrastructure
-Designing and optimizing network architectures with security-first principles
+- Designing and optimizing network architectures with security-first principles
+
 Cyber Defense
-Developing comprehensive security strategies and incident response capabilities
+- Developing comprehensive security strategies and incident response capabilities
+
 Hands-On Security Labs
-Applying theoretical knowledge through practical penetration testing and vulnerability research
+- Applying theoretical knowledge through practical penetration testing and vulnerability research
 
 🛠️ Technical Skills
-Network Security: Configuration, monitoring, and hardening of network infrastructure
-Risk Management: Security assessments, compliance frameworks, and threat modeling
-Offensive Security: Penetration testing, vulnerability assessment, and exploit development
-Defensive Operations: SOC analysis, threat hunting, and incident response
+Network Security: 
+- Configuration, monitoring, and hardening of network infrastructure
+
+Risk Management: 
+- Security assessments, compliance frameworks, and threat modeling
+
+Offensive Security: 
+- Penetration testing, vulnerability assessment, and exploit development
+
+Defensive Operations: 
+- SOC analysis, threat hunting, and incident response
 
 📈 Always Learning
 The cybersecurity landscape evolves rapidly, and I'm committed to staying ahead through continuous education, hands-on projects, and community engagement. Feel free to explore my repositories to see what I'm building!
