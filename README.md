@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm Franklin Latouche, a cybersecurity student pursuing a Bachelor's degree in Cyber Operations with a Cyber Engineering emphasis. I'm passionate about building secure systems and defending against evolving digital threats.
+
 🚀 Current Focus
 Networking & Infrastructure
 Designing and optimizing network architectures with security-first principles
@@ -7,8 +8,8 @@ Cyber Defense
 Developing comprehensive security strategies and incident response capabilities
 Hands-On Security Labs
 Applying theoretical knowledge through practical penetration testing and vulnerability research
-🛠️ Technical Skills
 
+🛠️ Technical Skills
 Network Security: Configuration, monitoring, and hardening of network infrastructure
 Risk Management: Security assessments, compliance frameworks, and threat modeling
 Offensive Security: Penetration testing, vulnerability assessment, and exploit development
